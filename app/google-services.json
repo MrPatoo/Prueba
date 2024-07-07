@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956579128613",
+    "project_id": "prueba-3125b",
+    "storage_bucket": "prueba-3125b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956579128613:android:0520b806e87f4d44c366cc",
+        "android_client_info": {
+          "package_name": "rodrigo.cordova.prueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA48jYKltgtkQRAY4ASNafqQt7JsxDbUCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
